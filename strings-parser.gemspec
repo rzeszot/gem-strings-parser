@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = ''
   spec.description = ''
-  spec.homepage = 'https://github.com/rzeszot/strings-parser-gem'
+  spec.homepage = 'https://github.com/rzeszot/gem-strings-parser/'
   spec.license = 'MIT'
   spec.required_ruby_version = '>= 2.6.0'
 
